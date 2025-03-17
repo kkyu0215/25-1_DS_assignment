@@ -1,0 +1,35 @@
+2025-03-16 12:22:30,343 INFO    MainThread:4929 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /root/25-1_DS_assignment/Week_01/25-1-DS-Week-1-Assignment/wandb/run-20250316_122230-2aviocvy/logs/debug.log
+2025-03-16 12:22:30,343 INFO    MainThread:4929 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /root/25-1_DS_assignment/Week_01/25-1-DS-Week-1-Assignment/wandb/run-20250316_122230-2aviocvy/logs/debug-internal.log
+2025-03-16 12:22:30,343 INFO    MainThread:4929 [wandb_init.py:init():761] calling init triggers
+2025-03-16 12:22:30,343 INFO    MainThread:4929 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-16 12:22:30,343 INFO    MainThread:4929 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-16 12:22:30,621 INFO    MainThread:4929 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 12:22:30,621 INFO    MainThread:4929 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 12:23:25,643 INFO    MainThread:4929 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 12:23:25,648 INFO    MainThread:4929 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 12:23:25,648 INFO    MainThread:4929 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 12:23:30,166 INFO    MainThread:4929 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 12:23:30,174 INFO    MainThread:4929 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /root/25-1_DS_assignment/Week_01/25-1-DS-Week-1-Assignment/wandb/run-20250316_122330-haagueiq/logs/debug.log
+2025-03-16 12:23:30,174 INFO    MainThread:4929 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /root/25-1_DS_assignment/Week_01/25-1-DS-Week-1-Assignment/wandb/run-20250316_122330-haagueiq/logs/debug-internal.log
+2025-03-16 12:23:30,174 INFO    MainThread:4929 [wandb_init.py:init():761] calling init triggers
+2025-03-16 12:23:30,174 INFO    MainThread:4929 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-16 12:23:30,174 INFO    MainThread:4929 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-16 12:23:30,384 INFO    MainThread:4929 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 12:23:30,385 INFO    MainThread:4929 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 12:24:02,833 INFO    MainThread:4929 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 12:24:02,836 INFO    MainThread:4929 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 12:24:02,836 INFO    MainThread:4929 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 12:24:04,916 INFO    MainThread:4929 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 12:24:04,920 INFO    MainThread:4929 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 12:24:04,920 INFO    MainThread:4929 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-16 12:24:12,284 INFO    MainThread:4929 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-16 12:24:12,293 INFO    MainThread:4929 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /root/25-1_DS_assignment/Week_01/25-1-DS-Week-1-Assignment/wandb/run-20250316_122412-rcirfr36/logs/debug.log
+2025-03-16 12:24:12,293 INFO    MainThread:4929 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /root/25-1_DS_assignment/Week_01/25-1-DS-Week-1-Assignment/wandb/run-20250316_122412-rcirfr36/logs/debug-internal.log
+2025-03-16 12:24:12,293 INFO    MainThread:4929 [wandb_init.py:init():761] calling init triggers
+2025-03-16 12:24:12,293 INFO    MainThread:4929 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-16 12:24:12,293 INFO    MainThread:4929 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-16 12:24:12,515 INFO    MainThread:4929 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-16 12:24:12,515 INFO    MainThread:4929 [wandb_init.py:_pause_backend():564] pausing backend

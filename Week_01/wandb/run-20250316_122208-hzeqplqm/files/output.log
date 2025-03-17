@@ -1,0 +1,4 @@
+/root/miniconda3/envs/DS/lib/python3.9/site-packages/_distutils_hack/__init__.py:54: UserWarning: Reliance on distutils from stdlib is deprecated. Users must rely on setuptools to provide the distutils module. Avoid importing distutils or import setuptools first, and avoid setting SETUPTOOLS_USE_DISTUTILS=stdlib. Register concerns at https://github.com/pypa/setuptools/issues/new?template=distutils-deprecation.yml
+  warnings.warn(
+/root/25-1_DS_assignment/Week_01/25-1-DS-Week-1-Assignment
+/root/25-1_DS_assignment/Week_01/25-1-DS-Week-1-Assignment
